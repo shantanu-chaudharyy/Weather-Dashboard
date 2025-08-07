@@ -138,16 +138,6 @@ button:hover {
     width: 100%;
   }
 }
-animation.loadAnimation({
-  container: document.getElementById('icon'),
-  renderer: 'svg',
-  loop: true,
-  autoplay: true,
-  path: animationPath,
-  rendererSettings: {
-    preserveAspectRatio: 'xMidYMid slice'
-  }
-});
 footer {
   text-align: center;
   padding: 15px;
