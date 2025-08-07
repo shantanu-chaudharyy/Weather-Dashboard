@@ -4,7 +4,7 @@ A clean and responsive **Weather Dashboard** built using **HTML, CSS, JavaScript
 
 ---
 
-## 📸 Preview
+## 📸 Preview - https://charming-bombolone-4d03f3.netlify.app/
 
 <table>
   <tr>
